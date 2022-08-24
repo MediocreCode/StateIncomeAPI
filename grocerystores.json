@@ -1,26 +1,26 @@
 [
   {"name": "Kroger",
    "address": "3305 Dallas Pkwy, Plano, TX 75093",
-   "lat": "33.046928",
-   "lng": "-96.831284",
+   "lat": 33.046928,
+   "lng": -96.831284,
     "id": 1
   },
   {"name": "ALDI",
    "address": "2220 Coit Rd #250, Plano, TX 75075",
-   "lat": "33.028860",
-   "lng": "-96.769390",
+   "lat": 33.028860,
+   "lng": -96.769390,
     "id": 2
   },
    {"name": "Sprouts",
    "address": "4100 Legacy Dr # 401, Plano, TX 75024",
-   "lat": "33.071140",
-   "lng": "-96.773820",
+   "lat": 33.071140,
+   "lng": -96.773820,
     "id": 3
   },
    {"name": "Tom Thumb",
    "address": "4848 Preston Rd, Frisco, TX 75034",
-   "lat": "33.118649",
-   "lng": "-96.803932",
+   "lat": 33.118649,
+   "lng": -96.803932,
     "id": 4
   }
 ]
